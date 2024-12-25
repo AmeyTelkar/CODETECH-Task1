@@ -27,4 +27,6 @@ Input handling (input(), try-except for error handling)
 Arithmetic operations (+, -, *, /)
 Conditional statements (if-elif-else)
 String formatting for result display.
+
+
 ![task1image](https://github.com/user-attachments/assets/2bb140b4-1974-4220-894b-d0a98f70cf5b)
